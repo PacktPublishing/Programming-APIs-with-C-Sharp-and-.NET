@@ -71,7 +71,7 @@ specializes in C#, Git, and building world-class APIs. He hosts the popular *Yet
 
 **Joseph Dluzen** has been working in C# and associated frameworks for almost 20 years. He is currently in a software architecture role for one of the world’s largest agricultural machine manufacturers. Formerly a senior consultant at Accenture, he has experience in a wide range of industries, including government identity, autonomous vehicle tooling, and enterprise auction management systems.
 
-## Other Books by the Author
+## Other Books by the Authors
 * Git for Programmers [[Packt]](https://www.packtpub.com/en-us/product/git-for-programmers-9781801075732) [[Amazon]](https://a.co/d/g3SXeeS)
 
 
