@@ -18,7 +18,7 @@ This book covers the following exciting features:
 * Implement security measures such as authentication and authorization
 * Deploy APIs to Azure and learn the essentials of cloud integration
 
-If you feel this book is for you, get your [copy](https://a.co/d/13IUELb) today!
+If you feel this book is for you, get your [copy](https://a.co/d/6X7LGjr) today!
 
 ## Instructions and Navigations
 
@@ -69,7 +69,8 @@ With the following software and hardware list you can run all code files present
 **Jesse Liberty**
 specializes in C#, Git, and building world-class APIs. He hosts the popular *Yet Another Podcast* (https://jesseliberty.com/podcast/) and is the author of more than two dozen best-selling programming books (https://packt.link/FVtEr ). Jesse was a Technical Evangelist for Microsoft, Distinguished Software Engineer at AT&T; Software Architect for PBS, and Vice President of Information Technology at Citibank. He was also on the teaching staff at Brandeis University. Jesse has been a Microsoft MVP for 13 years. Jesse is a recognized expert and has spoken at conferences worldwide. His website is https://jesseliberty.com.
 
-**Joseph Dluzen** has been working in C# and associated frameworks for almost 20 years. He is currently in a software architecture role for one of the world’s largest agricultural machine manufacturers. Formerly a senior consultant at Accenture, he has experience in a wide range of industries, including government identity, autonomous vehicle tooling, and enterprise auction management systems.
+**Joseph Dluzen** 
+has been working in C# and associated frameworks for almost 20 years. He is currently in a software architecture role for one of the world’s largest agricultural machine manufacturers. Formerly a senior consultant at Accenture, he has experience in a wide range of industries, including government identity, autonomous vehicle tooling, and enterprise auction management systems.
 
 ## Other Books by the Authors
 * Git for Programmers [[Packt]](https://www.packtpub.com/en-us/product/git-for-programmers-9781801075732) [[Amazon]](https://a.co/d/g3SXeeS)
